@@ -12,7 +12,7 @@ const DetailsBid = ({ bid }) => {
         justifyContent: "space-between",
         alignItems: "center",
         marginVertical: SIZES.base,
-        paddingHorizontal: SIZES.base,
+        paddingHorizontal: SIZES.base*2,
       }}
     >
       <Image
